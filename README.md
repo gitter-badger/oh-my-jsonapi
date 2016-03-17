@@ -1,4 +1,6 @@
 # JSON API Mapper
+
+[![Join the chat at https://gitter.im/jamesdixon/oh-my-jsonapi](https://badges.gitter.im/jamesdixon/oh-my-jsonapi.svg)](https://gitter.im/jamesdixon/oh-my-jsonapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 JSONAPI Mapper is a wrapper around @Seyz's excellent [JSON API 1.0](http://jsonapi.org/)-compliant serializer, [jsonapi-serializer](https://github.com/SeyZ/jsonapi-serializer), that removes the pain of generating the necessary serializer options for each of your ORM models.
 
 ## How does it work?
